@@ -1,0 +1,6 @@
+name: m11
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
